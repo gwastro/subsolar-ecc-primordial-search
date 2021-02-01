@@ -22,7 +22,7 @@ limits may inform the possible dark matter contribution.
 A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2007.03583).
 This release contains configuration files of the search and the template bank used for the analysis.
 
-
+![Overview of search region](searches.png)
 
 
 ## License and Citation
