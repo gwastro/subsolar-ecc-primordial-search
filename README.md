@@ -19,7 +19,7 @@ the rate of sub-solar mass mergers under the assumption of a null observation an
 limits may inform the possible dark matter contribution.
 
 
-A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2007.03583).
+A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2102.00868).
 This release contains configuration files of the search and the template bank used for the analysis.
 
 ![Overview of search region](searches.png)
@@ -37,11 +37,11 @@ We encourage use of these data in derivative works. If you use the material prov
 @article{Nitz:2021XXX,
     author = "Nitz, Alexander Harvey and Wang, Yi-Fan",
     title = "{Search for the coalescence of sub-solar mass and eccentric compact-binary mergers}",
-    eprint = "XXXX.XXXXXX",
+    eprint = "2102.00868",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
-    month = "7",
-    year = "2020"
+    month = "2",
+    year = "2021"
 }
 ```
 
