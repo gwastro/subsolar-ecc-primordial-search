@@ -1,4 +1,4 @@
-# Search for the coalescence of sub-solar mass and eccentric compact-binary mergers
+# Search for gravitational waves from the coalescence of sub-solar mass and eccentric compact binaries 
 **Alexander H. Nitz<sup>1, 2</sup>, Yi-Fan Wang<sup>1, 2</sup>**
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>
